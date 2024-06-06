@@ -1,0 +1,17 @@
+{
+  "installationFolder": "E:\\2023-2024 hk2\\mobile application development\\lab\\lab6\\Lab_Exercise_06-main\\removeshadow\\sdk\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":sdk",
+  "packageInfo": {
+    "packageName": "sdk",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "E:\\2023-2024 hk2\\mobile application development\\lab\\lab6\\Lab_Exercise_06-main\\removeshadow\\sdk\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}
